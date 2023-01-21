@@ -14,7 +14,7 @@ export default function Crew() {
         <Nav />
         <div className="px-8 lg:px-24 text-center md:text-left grid text-white heading5 pt-10 pb-10">
           <div>
-            <span>02</span> MEET YOUR CREW
+            <span>02</span> MEET YOUR CREW.
           </div>
         </div>
         <div className="grid md:grid-cols-1 lg:grid-cols-3 text-white items-end gap-8">
